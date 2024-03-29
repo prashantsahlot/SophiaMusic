@@ -18,7 +18,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 #thumbnail Name
 THUMNAME = getenv("THUMNAME","AmBot")
 #owner Username Without @
-OWNER_USERNAME = getenv("OWNER_USERNAME","Sanam_King")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Frozen_owner1")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "99999"))
 
@@ -44,8 +44,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AMBOTYT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AM_YTSUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/frozenupdates1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Frozensupport1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", "True"))
