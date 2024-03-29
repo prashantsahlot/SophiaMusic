@@ -1,4 +1,4 @@
-# SophiaMusic Uploding...
+
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
